@@ -8,6 +8,8 @@ html {
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
+  /* width not 100%, aligned to the left of screen, this is first fix attempt:  */
+  width: 100%;
 }
 
 .center {
